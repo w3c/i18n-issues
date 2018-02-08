@@ -1,4 +1,4 @@
-# Web for All issue repository
+# Internationalization issue repository
 
 
 Are you struggling to use the Web or an eBook reader in a particular language or writing system?  Are there features you wish were available, or worked better?
